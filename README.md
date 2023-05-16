@@ -1,4 +1,4 @@
-# Stop-Delivery-Optimization
+# Stop Delivery Optimization
 Annoyed by Microsoft's brilliant Delivery Optimization Service taking up all the network bandwith while you try use your pc? Tried turning the feature off from every settings menu you can think of? This .bat script stops the service every 10 seconds.
 
 # Usage
